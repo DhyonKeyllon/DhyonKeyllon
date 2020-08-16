@@ -1,7 +1,9 @@
 ### Dhyon Keyllo 😄
 
-Olá! Seja bem vindo,
-  Sou um programador iniciante, mas aqui você verá minha evolução e meus projetos. Caso tenho curiosidade em aprender algum projeto, fique tranquilo! Vou detalhar o máximo que eu conseguir pra vocês.
+Olá! Seja bem vindo,<br>
+  Sou um programador iniciante, mas aqui você verá minha evolução e meus projetos. Caso tenha curiosidade em aprender algum projeto, fique tranquilo! Vou detalhar o máximo que eu conseguir para vocês.
+  
+  
 
 <!--
 **DhyonKeyllon/DhyonKeyllon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
