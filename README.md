@@ -7,7 +7,7 @@ Olá! Seja bem vindo,<br>
 
 <img alt="Dhyon Keyllo's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=tokyonight&bg_color=COLOR3" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyonKeyllon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/dhyonkeyllon/)
