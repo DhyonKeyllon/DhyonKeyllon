@@ -1,7 +1,7 @@
 ### <h1>Dhyon Keyllo 😄</h1>
 
 Olá! Seja bem vindo,<br>
-  Sou um programador iniciante, mas aqui você verá minha evolução e meus projetos. Caso tenha curiosidade em aprender algum projeto, fique tranquilo! Vou detalhar o máximo que eu conseguir para vocês.<br>
+  Aqui você verá minha evolução e meus projetos. Fique a vontade para dar conselhos ou até mesmo, tirar alguma dúvida comigo. <br>
   
 
 
