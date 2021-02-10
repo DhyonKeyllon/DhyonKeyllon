@@ -1,7 +1,7 @@
 ### <h1>Dhyon Keyllo 😄</h1>
 
 Olá! Seja bem vindo,<br>
-  Aqui você verá minha evolução e meus projetos. Fique a vontade para dar conselhos ou até mesmo, tirar alguma dúvida comigo. <br>
+  Aqui onde eu armazeno todos meus projetos, sempre buscando a melhoria e aperfeiçoar meu perfil profissional 📈. <br>
   
 
 
