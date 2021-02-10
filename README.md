@@ -4,7 +4,7 @@ Olá! Seja bem vindo,<br>
   Aqui onde eu armazeno todos meus projetos, sempre buscando a melhoria e aperfeiçoar meu perfil profissional 📈. <br>
 
 
-<img alt="Dhyon Keyllo's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=tokyonight&bg_color=COLOR4" />
+<img alt="Dhyon Keyllo's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 
 <img alt="Linguagens mais usadas" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhyonKeyllon&layout=compact" />
 
