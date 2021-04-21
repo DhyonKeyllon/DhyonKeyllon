@@ -1,4 +1,4 @@
-### <h1>Dhyon Keyllo 😄</h1>
+### <h1>Dhyon Keyllo 👨‍💻</h1>
 
 Olá! Seja bem vindo,<br>
   Aqui onde eu armazeno todos meus projetos, sempre buscando a melhorar e aperfeiçoar meu perfil profissional 📈. <br>
