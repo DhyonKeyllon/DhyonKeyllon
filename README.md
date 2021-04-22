@@ -1,8 +1,8 @@
 <img src="/astronauta.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Astronauta Surfando">
 
-<div align="left"> 
-  <h1>Estudonauta surfando nesse vasto mar do conhecimento 🚀.<h1>
-</div>
+<p align="left"> 
+  Estudonauta surfando nesse vasto mar do conhecimento 🚀
+</p>
   
 <p align="left">
   🧠 Tecnologias: <strong>PHP, Javascript, Bootstrap 4, SASS</strong>
