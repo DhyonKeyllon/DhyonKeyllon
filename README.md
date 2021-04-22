@@ -12,7 +12,7 @@
   💼 Ferramentas: <strong>Git, Figma e Adobe Photoshop</strong>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
+
 
 <p align="left">
   <a href="mailto:dhyon.kpm@gmail.com" alt="Gmail">
@@ -24,3 +24,7 @@
   <a href="https://www.instagram.com/dh_keyllo/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/phedrakeson/"/></a>
 </p>
+
+<div style="border-bottom: 1px solid #6207e3;"></div>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
