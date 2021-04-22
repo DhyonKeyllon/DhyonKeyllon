@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="/astronauta.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Astronauta Surfando">
 
 <p align="left"> 
-  Estudonauta amante do vasto caminho do conhecimento 🚀
+  Estudonauta amante do vasto caminho do conhecimento 🚀.
 </p>
-
+  
 <p align="left">
-  🧠 Tecnologias: <strong>PHP, Javascript, SASS, e Bootstrap.</strong>
+  🧠 Tecnologias: <strong>PHP, Javascript, Bootstrap 4, SASS</strong>
 </p>
 
 <p align="left">
@@ -13,7 +13,6 @@
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
-
 
 <p align="left">
   <a href="mailto:dhyon.kpm@gmail.com" alt="Gmail">
@@ -24,4 +23,4 @@
 
   <a href="https://www.instagram.com/dh_keyllo/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/phedrakeson/"/></a>
-</p> 
+</p>
