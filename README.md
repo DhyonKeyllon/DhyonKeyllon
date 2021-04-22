@@ -1,4 +1,4 @@
-<img src="/estudonauta.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Astronauta Surfando">
+<img src="/astronauta.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Astronauta Surfando">
 
 <p align="left"> 
   Estudonauta amante do vasto caminho do conhecimento 🚀.
