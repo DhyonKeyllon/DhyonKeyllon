@@ -1,7 +1,7 @@
 <img src="/astronauta.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Astronauta Surfando">
 
 <p align="left"> 
-  Estudonauta surfando nesse vasto mar do conhecimento 🚀
+  Estudonauta surfando nesse vasto mar de conhecimentos 🚀
 </p>
   
 <p align="left">
