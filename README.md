@@ -5,11 +5,11 @@
 </p>
   
 <p align="left">
-  🧠 Tecnologias Front-End: <strong>HTML5, CSS3, Bootstrap 4, SASS, Javascript,JQuery</strong>
+  💻 Tecnologias Front-End: <strong>HTML5, CSS3, Bootstrap 4, SASS, Javascript e JQuery</strong>
 </p>
 
 <p align="left">
-  🧠 Tecnologias Back-End: <strong>PHP, MySQL, Apache</strong>
+  🎲 Tecnologias Back-End: <strong>PHP, MySQL e Apache</strong>
 </p>
 
 <p align="left">
