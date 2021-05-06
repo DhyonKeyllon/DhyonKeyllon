@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🎲 Tecnologias Back-End: <strong>PHP, MySQL e Apache</strong>
+  🎲 Tecnologias Back-End: <strong>PHP e MySQL</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, Figma e Adobe Photoshop</strong>
+  💼 Ferramentas: <strong>Git, Apache, Figma e Adobe Photoshop</strong>
 </p>
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
