@@ -1,7 +1,6 @@
 <img src="/astronauta.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Astronauta Surfando">
 
 <p align="left"> 
-  <h1>Dhyon Keyllon</h1>  
   Estudonauta surfando nesse vasto mar de conhecimentos 🚀
 </p>
   
