@@ -16,7 +16,7 @@
   💼 Ferramentas: <strong>Git, Apache, Figma e Adobe Photoshop</strong>
 </p>
 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
 
 <p align="left">
   <a href="mailto:dhyon.kpm@gmail.com" alt="Gmail">
