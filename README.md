@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🎲 Tecnologias Back-End: <strong>PHP e MySQL</strong>
+  🎲 Tecnologias Back-End: <strong>PHP, MySQL e Apache</strong>
 </p>
 
 <p align="left">
