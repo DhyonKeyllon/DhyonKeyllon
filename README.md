@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  📈 <strong>Projetos: </strong> Atualmente estou desenvolvendo o TCC, onde nosso time está criando o <strong><em>Clean Car</em></strong>, que é um Sistema de Lava-Rápido para facilitar o controle de empresas de Lava-Rápido.
+  📈 <strong>Projetos: </strong> Atualmente estou desenvolvendo sistema do TCC, estou juntamente com meu grupo criando o <strong><em>Clean Car</em></strong>, que é um Sistema de Lava-Rápido para facilitar o controle de empresas de Lava-Rápido.
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
