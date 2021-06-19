@@ -5,15 +5,19 @@
 </p>
   
 <p align="left">
-  💻 Tecnologias Front-End: <strong>HTML5, CSS3, Bootstrap 4, SASS, Javascript e JQuery</strong>
+  💻 <strong>Tecnologias Front-End: </strong> HTML5 - CSS3 - Bootstrap 4 - SASS - Javascript - JQuery
 </p>
 
 <p align="left">
-  🎲 Tecnologias Back-End: <strong>PHP, MySQL e Apache</strong>
+  🎲 <strong>Tecnologias Back-End: </strong> PHP - MySQL - Apache
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, Figma e Adobe Photoshop</strong>
+  💼 <strong>Ferramentas: </strong> Git - Figma - Adobe Photoshop
+</p>
+
+<p align="left">
+  📈 <strong>Projetos: </strong> Atualmente estou desenvolvendo o TCC, onde nosso time está criando o <strong><em>Clean Car</em></strong>, que é um Sistema de Lava-Rápido para facilitar o controle de empresas de Lava-Rápido.
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
