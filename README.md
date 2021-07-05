@@ -16,10 +16,6 @@
   💼 <strong>Ferramentas: </strong> Git - Figma - Adobe Photoshop
 </p>
 
-<p align="left">
-  📈 <strong>Projetos: </strong> Atualmente estou trabalhando no projeto do TCC. Estou, juntamente com o meu grupo, desenvolvendo o <a href="https://github.com/DALS-Tec/cleancar" target="_blank" ><strong><em>Clean Car</em></strong></a>, que é um Sistema de Lava-Rápido para facilitar o controle de empresas de Lava-Rápido.
-</p>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
 
 <p align="left">
