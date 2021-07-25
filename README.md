@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🎲 <strong>Tecnologias Back-End: </strong> PHP - MySQL
+  🎲 <strong>Tecnologias Back-End: </strong> PHP - MySQL - API
 </p>
 
 <p align="left">
