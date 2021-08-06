@@ -5,7 +5,7 @@
 </p>
   
 <p align="left">
-  💻 <strong>Tecnologias Front-End: </strong> HTML5 - CSS3 - Bootstrap 4 - JavaScript - ReactJS - Next.js
+  💻 <strong>Tecnologias Front-End: </strong>  Bootstrap - JavaScript - ReactJS - NextJS
 </p>
 
 <p align="left">
