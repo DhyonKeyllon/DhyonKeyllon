@@ -5,11 +5,11 @@
 </p>
   
 <p align="left">
-  💻 <strong>Tecnologias Front-End: </strong>  Bootstrap - JavaScript - ReactJS - NextJS
+  💻 <strong>Tecnologias Front-End: </strong>  Bootstrap - JavaScript - Next.js
 </p>
 
 <p align="left">
-  🎲 <strong>Tecnologias Back-End: </strong> PHP - MySQL - API
+  🎲 <strong>Tecnologias Back-End: </strong> PHP - MySQL - APIRest - Nest.js
 </p>
 
 <p align="left">
