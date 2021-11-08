@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas: </strong> Git - Figma - Adobe Photoshop
+  💼 <strong>Ferramentas: </strong> Git - Figma - Adobe XD
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
