@@ -1,19 +1,19 @@
 <img src="/astronauta.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Astronauta Surfando">
 
 <p align="left"> 
-  Estudonauta surfando nesse vasto mar de conhecimentos 🚀
+  Studynaut surfing this vast sea of knowledge 🚀
 </p>
   
 <p align="left">
-  💻 <strong>Tecnologias Front-End: </strong>  SASS/SCSS - JavaScript - React.js - Next.js
+  💻 <strong>Front-End Technologies: </strong>  SASS/SCSS - JavaScript - React.js - Next.js
 </p>
 
 <p align="left">
-  🎲 <strong>Tecnologias Back-End: </strong> PHP - MySQL - MongoDB - APIRest - Node.js - Nest.js - Serverless
+  🎲 <strong>Back-End Technologies: </strong> Node.js - Prisma - API RESTful - MySQL - MongoDB - PHP - Nest.js - Serverless
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas: </strong> Git - Figma - Adobe XD
+  💼 <strong>Tools: </strong> Git - Figma - Adobe XD
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
