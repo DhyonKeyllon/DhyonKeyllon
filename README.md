@@ -1,20 +1,22 @@
 <img src="/astronauta.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Astronauta Surfando">
 
-<p align="left"> 
+<h4 align="left"> 
   Studynaut surfing this vast sea of knowledge 🚀
-</p>
+</h4>
   
-<p align="left">
-  💻 <strong>Front-End Technologies: </strong>  SASS/SCSS - JavaScript - React.js - Next.js
-</p>
+<div align="left" style="display: inline_block"><br>
+  <img align="center" alt="Dhyon-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Dhyon-reactjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Dhyon-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Dhyon-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Dhyon-nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="Dhyon-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Dhyon-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img align="center" alt="Dhyon-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Dhyon-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
 
-<p align="left">
-  🎲 <strong>Back-End Technologies: </strong> Node.js - Prisma - API RESTful - MySQL - MongoDB - PHP - Nest.js - Serverless
-</p>
-
-<p align="left">
-  💼 <strong>Tools: </strong> Git - Figma - Adobe XD
-</p>
+<hr />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
 
