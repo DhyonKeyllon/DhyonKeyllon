@@ -1,7 +1,7 @@
 <h4 align="left"> 
   Studynaut surfing this vast sea of knowledge 🚀
 </h4>
-  
+
 <div align="left"><br>
   <h6>Programming Languages</h6>
   <img title="Javascript" align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
