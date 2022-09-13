@@ -29,8 +29,6 @@
 
 <hr />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DhyonKeyllon&show_icons=true&theme=dracula)
-
 <p align="left">
   <a href="mailto:dhyon.kpm@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrield.developer@gmail.com" /></a>
