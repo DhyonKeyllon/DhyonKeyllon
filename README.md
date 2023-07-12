@@ -18,12 +18,11 @@
   <h6>Back-End</h6>
   <img title="Node.js" align="center" alt="Dhyon-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img title="Nest.js" align="center" alt="Dhyon-nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> &nbsp;
-  <img title="Prisma.io" align="center" alt="Dhyon-prismaio" height="80" width="80" src="https://website-v9.vercel.app/logo-white.svg" />
 
   <h6>Databases</h6>
   <img title="MySQL" align="center" alt="Dhyon-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img title="MongoDB" align="center" alt="Dhyon-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  
+          
   <h6>Work Tools</h6>
   <img title="Figma" align="center" alt="Dhyon-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
