@@ -11,13 +11,13 @@
   <h6>Front-End</h6>
   <img title="ReactJs" align="center" alt="Dhyon-reactjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img title="NextJs" align="center" alt="Dhyon-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img title="Tailwindcss" align="center" alt="Dhyon-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img title="Tailwindcss" align="center" alt="Dhyon-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img title="Sass" align="center" alt="Dhyon-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img title="MaterialUI" align="center" alt="Dhyon-MUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 
   <h6>Back-End</h6>
   <img title="Node.js" align="center" alt="Dhyon-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img title="Nest.js" align="center" alt="Dhyon-nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> &nbsp;
+  <img title="Nest.js" align="center" alt="Dhyon-nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> &nbsp;
 
   <h6>Databases</h6>
   <img title="MySQL" align="center" alt="Dhyon-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
